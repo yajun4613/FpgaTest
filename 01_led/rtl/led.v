@@ -6,4 +6,5 @@ module (
 always(posedge clk)
 begain
     if(clk)begain
+    end
 end
